@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @lehRobotics
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Legacy Robots,
+  This is created for furture Robotics members to gain information on how to actually do stuff.
 
-<!---
-lehRobotics/lehRobotics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+contact: lehrobots@gmail.com
+
+Steps to creating stuff:
+  -
